@@ -3,7 +3,7 @@
 This project implements a multi-agent chatbot using the **Groq API** and **Flask**, allowing each agent to have specific training data and behavior. You can interact with the chatbot via POST requests for both chatting and training.
 
 ## Features
-- Two pre-configured agents (`loopiAgent` and `lucanetaAgent`).
+- Two pre-configured agents (`Agent1` and `Agent2`).
 - Support for custom agent-specific training.
 - Easy-to-use RESTful API for interaction.
 
