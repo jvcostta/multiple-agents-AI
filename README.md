@@ -51,7 +51,7 @@ This project implements a multi-agent chatbot using the **Groq API** and **Flask
 -   response:
     ```bash
     {
-     "response": "Agent's reply"
+     "response": "Hello! Welcome to Loopi! I'm happy to help you with that.\n\nTo accumulate more points, also known as \"Loopis,\" you can earn them by playing our exciting games, such as Loopi Kicks, Loopi Bird, Loopi Boxing, and many others! You can also earn Loopis by answering quizzes and participating in challenges like Palpitão.\n\nIn addition to that, you can also gain Loopis by completing daily tasks and achieving milestones. Plus, keep an eye out for special events and offers that can boost your Loopis earnings!\n\nRemember to check the app regularly for new games, challenges, and rewards. And, don't forget to redeem your accumulated Loopis for amazing prizes and rewards!\n\n"
     }
 
 2. Train an agent
